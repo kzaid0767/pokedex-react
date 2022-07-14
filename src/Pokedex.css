@@ -1,0 +1,18 @@
+.Pokedex {
+    text-align: center;
+}
+.Pokegame {
+    text-align: center;
+}
+.Pokedex-card {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedex-winner {
+    color: rgb(16, 156, 16);
+}
+.Pokedex-looser {
+    color: rgb(211, 12, 12);
+}
